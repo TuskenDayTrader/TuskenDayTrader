@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @TuskenDayTrader
-- 👀 I’m interested in Tinancials and marlet analysis
-- 🌱 I’m currently learning market behavior, price action, volume analysis and Pyrhon
-- 💞️ I’m looking to collaborate on Python scripts to help better analyze, determine, project and forecast
-- 📫 How to reach me 7274201189@vtext.com
-- 😄 
-- ⚡ Fun fact: I FU**ING LOVE MY LIFE
-TuskenDayTrader
-@TuskenDayTrade (X)
+ Greetings, I’m @TuskenDayTrader
+ — A Faux of All Trades!Hi, I’m a self-proclaimed Faux Everything — a FauxGrammar crafting poetic code, a FauxArtist painting with market charts, and a faux master of all trades, humbly mastering none! By day, I’m a day trader chasing the pulse of financial markets, decoding price action, and hunting for “soaking bids” that signal the next big move. By night, I’m a Python tinkerer, blending data and creativity to build tools that forecast trends and spark insights. Whether I’m analyzing IWM’s path to new highs or dreaming up SPX at 6,600, I thrive on the chaos of markets and code, all while embracing my faux-tastic journey.Mantra: I FU**ING LOVE MY LIFE — every trade, every bug, every lesson is a masterpiece in progress!
+
